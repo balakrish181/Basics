@@ -1,4 +1,3 @@
-# git-github
-sample repository
-1
-2
+# Basic codes
+
+on python
